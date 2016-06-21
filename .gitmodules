@@ -1,0 +1,4 @@
+[submodule "vim-phpfmt"]
+	path = vim-phpfmt
+	url = https://github.com/yeaha/vim-phpfmt.git
+	branch = master
